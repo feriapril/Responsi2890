@@ -1,0 +1,3 @@
+G:\Tugas\Project\Pemrograman\19.11.2890\Responsi\Responsi\obj\Debug\netcoreapp3.1\ResponsiPemrograman2890.csprojAssemblyReference.cache
+G:\Tugas\Project\Pemrograman\19.11.2890\Responsi\Responsi\obj\Debug\netcoreapp3.1\ResponsiPemrograman2890.AssemblyInfoInputs.cache
+G:\Tugas\Project\Pemrograman\19.11.2890\Responsi\Responsi\obj\Debug\netcoreapp3.1\ResponsiPemrograman2890.AssemblyInfo.cs
